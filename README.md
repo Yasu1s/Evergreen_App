@@ -16,7 +16,7 @@ Real-Time Results: Users receive instant feedback on the health of their plants,
 ![Screenshot 2024-05-29 112237](https://github.com/Yasu1s/Evergreen_App/assets/134012077/184f5e63-e03d-4e48-987a-74277aca9880)
 
 # Getting Started:
-Clone the repository: git clone https://github.com/your-username/evergreen.git
+Clone the repository: git clone https://github.com/Yasu1s/Evergreen_App
 Navigate to the project directory: cd evergreen
 Install dependencies: flutter pub get
 Run the app: flutter run
