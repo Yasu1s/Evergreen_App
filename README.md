@@ -4,9 +4,13 @@ This Flutter application provides a user-friendly platform for identifying plant
 
 # Features:
 Image Scanning: Capture or upload images of plant leaves to analyze for potential diseases.
+
 Disease Identification: Utilize image recognition algorithms to identify and display potential disease matches.
+
 History Tracking: Maintain a history of scanned images and their corresponding disease predictions.
+
 User-Friendly Interface: Enjoy a visually appealing and intuitive app experience.
+
 Real-Time Results: Users receive instant feedback on the health of their plants, allowing for prompt action to be taken if necessary.
 
 # Screenshots:
